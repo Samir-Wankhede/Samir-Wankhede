@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samir-Wankhede
-https://samirwankhede-portfolio.vercel.app
+https://samirwankhede.in
 
 <!---
 Samir-Wankhede/Samir-Wankhede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
