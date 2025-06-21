@@ -1,4 +1,4 @@
-<image src="https://github.com/user-attachments/assets/21689165-b601-4fc9-9fb1-cad8b245d11b">
+<image src="https://github.com/Samir-Wankhede/Samir-Wankhede/blob/main/nevergonnagiveyoubugs.gif">
   
 visit my website: <a href="https://samirwankhede.in">samirwankhede.in</a>
   
