@@ -2,7 +2,7 @@
     
 ### 👋 Hi, I’m Samir Wankhede
 
-I am a 20 year old Cloud and Devops Enthusiast, Full Stack Developer, ML Explorer currently, Upcoming Linux nerd and an Engineering Student at Pune Institute of Computer Technology
+I am a 20 year old Cloud, Infra and Devops Enthusiast, Full-Stack Developer, Currently exploring ML and OSS, Upcoming Linux nerd and an Engineering Student at Pune Institute of Computer Technology
 
 visit my website: <a href="https://samirwankhede.in">samirwankhede.in</a>
 <!---
